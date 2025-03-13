@@ -8,7 +8,8 @@
 ---
 
 ### 🚀 **About Me**
-🎯 Building a career in web development, WordPress, Python, Node.js, Tableau, and Grafana, while working towards earning IDR, USD, SDG, TWD, and beyond.
+🎯 Building a career in web development, WordPress, Python, Node.js, Tableau, and Grafana, **while working towards earning IDR, USD, SDG, TWD, and beyond**
+
 💡 Passionate in **Web Development, Data Visualization, and System Optimization**  
 🌍 Always open to **collaborations and global opportunities**  
 
@@ -26,10 +27,11 @@
 </p>
 
 ---
-
 ### 📊 **GitHub Stats**
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=petrabasillea&show_icons=true&theme=radical" width="400px">
+</p>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrabasillea&theme=radical" width="400px">
 </p>
 
@@ -37,8 +39,9 @@
 
 ### 📈 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=petrabasillea&theme=react-dark&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrabasillea&bg_color=000000&color=ffffff&line=16e38b&point=c8eefe&area=true&hide_border=true">
 </p>
+
 
 ---
 
